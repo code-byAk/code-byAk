@@ -1,9 +1,3 @@
-Hello there!
-I am Arnab Karmakar, under my coding alias of "codeby-Ak", here into the world of GIT.
-Studying in Jadavpur University in a branch of not my personal choice, coding gives me the only solace I require!
-Lets hope we can work together into creating something worthwhile and learn all the more in the process!
-
-Ciao.
 
 # Hello there! I am Arnab Karmakar, under my coding alias of "codeby-Ak", here into the world of GIT.
 
@@ -51,4 +45,4 @@ Ciao.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-
+## Ciao
