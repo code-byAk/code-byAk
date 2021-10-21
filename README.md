@@ -13,7 +13,7 @@ Ciao.
 
 [![Badge](https://cp-logo.vercel.app/codechef/code_byak)](https://www.codechef.com/users/code_byak)
 [![Badge](https://cp-logo.vercel.app/codeforces/code_byak)](https://codeforces.com/profile/code_byak)
-## https://www.hackerrank.com/code_byak
+[![Badge](https://cp-logo.vercel.app/hackerrank/code_byak)](https://www.hackerrank.com/code_byak)
 
 ---
 
