@@ -39,7 +39,7 @@ Ciao.
 
 ###### Back-End Stack
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Php-green)
+![PHP](https://img.shields.io/badge/-PHP-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
