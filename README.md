@@ -5,8 +5,6 @@
 #I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 5th semester. 
 ## I am a 4 star Competitive Coder on Codechef, with 5 stars in Problem Solving and Java, 4 Star in SQL and 3 star in Cpp in Hackerrank!
 
-[![Badge](https://cp-logo.vercel.app/codechef/code_byak)](https://www.codechef.com/users/code_byak)
-[![Badge](https://cp-logo.vercel.app/codeforces/code_byak)](https://codeforces.com/profile/code_byak)
 
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
