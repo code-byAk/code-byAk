@@ -2,7 +2,7 @@
 # Hello there! I am Arnab Karmakar, under my coding alias of "codeby-Ak", here into the world of GIT.
 
 ## I am Arnab Karmakar, a learner in Software Development and WebDev. Working with Java is what I consider my best front. 
-#I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 5th semester. 
+#I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 7th semester. 
 ## I am a 4 star Competitive Coder on Codechef, with 5 stars in Problem Solving and Java, 4 Star in SQL and 3 star in Cpp in Hackerrank!
 
 
