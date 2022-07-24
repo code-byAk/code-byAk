@@ -1,8 +1,8 @@
 
 # Hello there! I am Arnab Karmakar, with the alias of "codeby-Ak".
 
-## I am Arnab, a learner in Software Development and WebDevelpoment. Working with Java and solving Competitive Programming Problems is what I consider my best front. 
-#I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 7th semester, at Jadavpur University.
+# I am Arnab, a learner in Software Development and WebDevelpoment. Working with Java and solving Competitive Programming Problems is what I consider my best front. 
+# I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 7th semester, at Jadavpur University.
 ## I have attained 4 stars on Codechef, with 5 stars in Problem Solving and Java, 4 Star in SQL and 3 star in Cpp in Hackerrank!
 ## I have solved over 250 Questions on LeetCode, with a Continuous coding streak of over 75 days!
 
