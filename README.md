@@ -1,23 +1,11 @@
 
-# Hello there! I am Arnab Karmakar, under my coding alias of "codeby-Ak", here into the world of GIT.
+# Hello there! I am Arnab Karmakar, with the alias of "codeby-Ak".
 
-## I am Arnab Karmakar, a learner in Software Development and WebDev. Working with Java is what I consider my best front. 
-#I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 7th semester. 
-## I am a 4 star Competitive Coder on Codechef, with 5 stars in Problem Solving and Java, 4 Star in SQL and 3 star in Cpp in Hackerrank!
+## I am Arnab, a learner in Software Development and WebDevelpoment. Working with Java and solving Competitive Programming Problems is what I consider my best front. 
+#I am currently pursuing my Bachelor of Engineering in Electronics and Communication, in my 7th semester, at Jadavpur University.
+## I have attained 4 stars on Codechef, with 5 stars in Problem Solving and Java, 4 Star in SQL and 3 star in Cpp in Hackerrank!
+## I have solved over 250 Questions on LeetCode, with a Continuous coding streak of over 75 days!
 
-
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
-
----
-
-## Connect with me on - 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arnab1999karmakar/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arnab__karmakar/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_the.foodie.engineer_/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:arnabkarmakar0000@gmail.com)
-
----
 ## Tech Stacks
 
 ###### Learning
@@ -43,4 +31,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-## Ciao
+## It was good to know you. 
